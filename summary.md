@@ -19,6 +19,10 @@
     - 200+ GitHub public repositories
     - 3 times ISUCON Winner
 
+その他、カヤック社でハイトラフィックなソーシャルゲームのテックリードを務めるなどもしていた。SIer経験も。
+
+現在は、Launchableにて、Principal Software Engineerを務める。
+
 ### Web Engineer (10+ years / 2008~)
 - バックエンドアプリケーション開発が主軸
 - いわゆるSREやDevOpsと言われる領域が得意分野
