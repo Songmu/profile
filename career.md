@@ -89,6 +89,9 @@ Mackerelはプラグイン類をOSSとして公開しており、それらの開
 - 『[「Go言語らしさ」とは何か？Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://eh-career.com/engineerhub/entry/2018/06/19/110000)』 - エンジニアHub
 - 『[「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話](https://engineer-lab.findy-code.io/neet-to-cto)』 - Findy Engineer Lab
 
+### SNS
+- <https://twitter.com/songmu>
+
 ## 学歴
 - 2004年 慶應義塾大学環境情報学部環境情報学科
 - 1999年 麻布高等学校
