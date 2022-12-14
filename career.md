@@ -75,19 +75,19 @@ Mackerelはプラグイン類をOSSとして公開しており、それらの開
     - [我々(主語が大きい)は何故MySQLで外部キーを使わないのか](https://junkyard.song.mu/slides/fk-night/#0)
 
 ### 書籍
-- 「入門 監視 ――モダンなモニタリングのためのデザインパターン」 オライリージャパン 付録C執筆
+- 「入門 監視」 オライリージャパン 付録C執筆
 - 「Mackerel サーバ監視［実践］入門」技術評論社 代表著者
 - 「みんなのGo言語[現場で使える実践テクニック]」技術評論社 共著
 
 ### 雑誌
 - 「WEB+DB PRESS Vol.79」技術評論社 「[cron周りのベストプラクティス](https://gihyo.jp/dev/serial/01/perl-hackers-hub/002501)」寄稿
 - 「WEB+DB PRESS Vol.104」技術評論社 「[Minillaを使ったモダンなCPANモジュール開発](https://gihyo.jp/dev/serial/01/perl-hackers-hub/005001)」寄稿
-- 「WEB+DB PRESS Perl Hackers Hub 監修チーム 第35回-現在
+- 「WEB+DB PRESS」連載 Perl Hackers Hub 監修チーム 第35回-現在
 - 「Software Design」技術評論社 「Mackerelではじめるサーバー管理」連載 2015年3月号-2016年11月号
 
 ### Webメディア
-- 『[「Go言語らしさ」とは何か？Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://eh-career.com/engineerhub/entry/2018/06/19/110000)』エンジニアHub 寄稿
-- 『[「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話](https://engineer-lab.findy-code.io/neet-to-cto)』Findy Engineer Lab 寄稿
+- 『[「Go言語らしさ」とは何か？Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://eh-career.com/engineerhub/entry/2018/06/19/110000)』 - エンジニアHub
+- 『[「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話](https://engineer-lab.findy-code.io/neet-to-cto)』 - Findy Engineer Lab
 
 ## 学歴
 - 2004年 慶應義塾大学環境情報学部環境情報学科
