@@ -1,5 +1,9 @@
 松木 雅幸 / id:Songmu
 
+クラウド・インフラ技術にも精通したソフトウェアエンジニアであり、ISUCONに過去3度優勝するなど、インフラを意識して信頼性の高いWebアプリケーションコードを高速に書くことを得意とする。プロダクトマネージャーやCTO経験から、事業においてアジャイルに顧客に価値を届けることにもこだわりを持ち、活動をおこなってきた。
+
+OSS活動も活発におこなっており、GoやPerlを中心に200個以上のツールやモジュールをGitHub上に公開している。それも含め、Blog等での発信力にも大きな強みを持つ。
+
 ## 職歴
 
 ### Launchable Inc, (2021/10 - 2022/12)
@@ -45,13 +49,45 @@ Mackerelはプラグイン類をOSSとして公開しており、それらの開
 ### 株式会社イーオン・ネット・コミュニケーションズ (2005/06 - 2008/12)
 営業兼システム担当として、英語・中国語のインターネットレッスン事業及び、中国語スクール事業の立ち上げ、全国展開に携わった。
 
+## アウトプット
 
+### OSS
+- <https://github.com/Songmu>
+    - <https://github.com/x-motemen/ghq>
+    - <https://github.com/Songmu/ecschedule>
+    - <https://github.com/Songmu/tagpr>
+- <https://metacpan.org/author/SONGMU>
 
+### Blog
+- <https://songmu.jp/riji/>
+    - [Gitのワークフローについての私のスタンス](https://songmu.jp/riji/entry/2021-05-19-my-git-workflow.html)
+    - [ルーク！MySQLではkamipo TRADITIONALを使え！](https://songmu.jp/riji/entry/2015-07-08-kamipo-traditional.html)
+    - [Android7.1以前でLet's Encrypt証明書のサイトが見られなくなる](https://songmu.jp/riji/entry/2020-08-06-android-letsencrypt.html)
+- <https://blog.song.mu>
+    - [社内情報共有についての考え方](https://blog.song.mu/entry/open-knowledge-sharing)
+    - [Microservices時代の監視設計](https://blog.song.mu/entry/microservices-monitoring-design)
+    - [スタートアップマニフェスト](https://blog.song.mu/entry/startup-manifest)
 
-## OSS
+### プレゼンテーション
+- <https://junkyard.song.mu/slides/>
+    - [変化し続けるキャリアと変わらない原体験](https://junkyard.song.mu/slides/yapc-japan-online-2022/#0)
+    - [OSS活動を細く長く続ける技術](https://junkyard.song.mu/slides/jtf2021w/#0)
+    - [我々(主語が大きい)は何故MySQLで外部キーを使わないのか](https://junkyard.song.mu/slides/fk-night/#0)
 
+### 書籍
+- 「入門 監視 ――モダンなモニタリングのためのデザインパターン」 オライリージャパン 付録C執筆
+- 「Mackerel サーバ監視［実践］入門」技術評論社 代表著者
+- 「みんなのGo言語[現場で使える実践テクニック]」技術評論社 共著
 
+### 雑誌
+- 「WEB+DB PRESS Vol.79」技術評論社 「[cron周りのベストプラクティス](https://gihyo.jp/dev/serial/01/perl-hackers-hub/002501)」寄稿
+- 「WEB+DB PRESS Vol.104」技術評論社 「[Minillaを使ったモダンなCPANモジュール開発](https://gihyo.jp/dev/serial/01/perl-hackers-hub/005001)」寄稿
+- 「WEB+DB PRESS Perl Hackers Hub 監修チーム 第35回-現在
+- 「Software Design」技術評論社 「Mackerelではじめるサーバー管理」連載 2015年3月号-2016年11月号
 
+### Webメディア
+- 『[「Go言語らしさ」とは何か？Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://eh-career.com/engineerhub/entry/2018/06/19/110000)』エンジニアHub 寄稿
+- 『[「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話](https://engineer-lab.findy-code.io/neet-to-cto)』Findy Engineer Lab 寄稿
 
 ## 学歴
 - 2004年 慶應義塾大学環境情報学部環境情報学科
