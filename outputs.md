@@ -45,6 +45,24 @@
 - [多様化が進まないのは組織の器が小さいから？ “異能”を活かすチームビルディング【ソンムー×ばんくし／聴くエンジニアtype Vol.40】](https://type.jp/et/feature/23990/)
 - [CTO・VPoEのキャリア〜組織成長と文化の両立へ挑戦〜株式会社ヘンリー VPoE松木 雅幸氏](https://note.com/startuptechlive/n/n2613ec2f1ad8)
 
+## 書籍
+- 「入門 監視 ――モダンなモニタリングのためのデザインパターン」 オライリージャパン
+    - 付録C執筆
+- 「Mackerel サーバ監視［実践］入門」技術評論社
+    - 代表著者
+- 「みんなのGo言語[現場で使える実践テクニック]」技術評論社
+    - 共著
+
+## 雑誌寄稿
+- 「WEB+DB PRESS Vol.79」技術評論社
+    - Perl Hackers Hub 第25回「cron周りのベストプラクティス」
+- 「WEB+DB PRESS Vol.104」技術評論社
+    - Perl Hackers Hub 第50回「Minillaを使ったモダンなCPANモジュール開発」
+- 「WEB+DB PRESS」
+    - Perl Hackers Hub 監修チーム 第35回-
+- 「Software Design」技術評論社
+    - 「Mackerelではじめるサーバー管理」連載 2015年3月号-2016年11月号
+
 ## Podcast
 - fukabori.fm
     - [35. [前編] Nature Remoから学ぶシステムアーキテクチャと開発プロセス](https://fukabori.fm/episode/35)
